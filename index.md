@@ -14,7 +14,7 @@ last_modified_at: 2024-09-16
 
 I’ve been on a mission to apply machine learning and data science to fintech. I build intelligent systems that solve complex problems and make intricate ideas accessible and impactful. 
 
-I’m currently a part-time student and will transition to the MCF track of the full-time M.S. in Computational and Mathematical Engineering (ICME) at Stanford University this September 2026.
+I’ll be studying full-time at Stanford University this September 2026. There, I'll be completing the M.S. program in Computational and Mathematical Engineering (MCF Track).
 
 As a proud first-generation 🌱, low-income (FLI) college graduate, my story is deeply rooted in resilience and aspiration. Over 30 years ago, my parents fled Vietnam 🇻🇳 as war refugees, seeking a new beginning in the United States. The courage they’ve shown on their journey continues to inspire me to push boundaries and strive for excellence in all that I do.
 
